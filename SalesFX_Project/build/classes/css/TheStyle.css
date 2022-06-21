@@ -1,0 +1,48 @@
+/* 
+    Created on : Apr. 17, 2021, 5:19:58 p.m.
+Katarzyna Karakow
+Student Number: 991627844
+FINAL PROJECT
+April 17, 2021
+*/
+
+.root {
+    -fx-background-color: #d8e3e7;
+}
+
+Button {
+    -fx-background-color: #126e82;
+    -fx-font-family: Verdana;
+    -fx-font-size: 12px;
+    -fx-text-fill: #d8e3e7;
+    -fx-font-weight: bold;
+
+}
+TextField {
+    -fx-background-color: #f9f3f3;
+    -fx-font-family: Courier New;
+    -fx-font-size: 15px;
+    -fx-text-fill: #132c33;
+}
+
+TextArea {
+    -fx-background-color: #f9f3f3;
+    -fx-font-family: Courier New;
+    -fx-font-size: 15px;
+    -fx-text-fill: #132c33;
+}
+
+Label {
+    -fx-font-weight: bold;
+    -fx-font-family: Verdana;
+    -fx-font-size: 15px;
+    -fx-text-fill: #126e82;
+}
+
+RadioButton {
+    -fx-font-family: Verdana;
+    -fx-font-size: 15px;
+    -fx-text-fill: #126e82;
+    -fx-font-weight: bold;
+}
+
